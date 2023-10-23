@@ -1,6 +1,6 @@
-let peoples = got.houses.reduce((arr, el) => {
-  arr = arr.concat(el.people);
-  return arr;
+let peoples = got.houses.reduce((acc, el) => {
+  acc = acc.concat(el.people);
+  return acc;
 }, []);
 
 let ul = document.querySelector('ul');
