@@ -1,6 +1,6 @@
 # Introduction-to-DOM
-## Assignment-DOM-Manupulation
-## Assignment-Manipulating-Element
-## create-Bookly-App
-## created a bookly app
-## Create-PeopleOfGOT
+## 1. Assignment-DOM-Manupulation
+## 2. Assignment-Manipulating-Element
+## 3. create-Bookly-App
+## 4. created a bookly app
+## 5. Create-PeopleOfGOT
